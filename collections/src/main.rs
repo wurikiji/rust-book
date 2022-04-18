@@ -25,7 +25,7 @@ fn main() {
         None => println!("There is not third element."),
     }
     // let does_not_exist = &v[100];
-    let does_not_exit = v.get(100);
+    let does_not_exist = v.get(100);
 
     let mut v = vec![1, 2, 3, 4, 5];
     let first = &v[0];
