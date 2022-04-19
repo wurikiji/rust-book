@@ -2,6 +2,7 @@ use std::error::Error;
 
 mod recoverable_with_Result;
 mod unrecoverable;
+mod validation;
 
 fn main() -> Result<(), Box<dyn Error>> {
     // panic!("Crash");
