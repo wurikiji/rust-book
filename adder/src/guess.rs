@@ -16,3 +16,7 @@ impl Guess {
 fn greater_than_100() {
     Guess::new(200);
 }
+
+#[test]
+#[ignore]
+fn expensive_test() {}
