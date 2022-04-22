@@ -11,6 +11,7 @@ mod tests {
         assert_eq!(result, 4);
     }
     #[test]
+    #[should_panic]
     fn another() {
         panic!("Make this test fail");
     }
@@ -25,7 +26,7 @@ mod tests {
     }
 }
 
-mod add_two;
-mod greeting;
-mod guess;
-mod rectangle;
+pub mod add_two;
+pub mod greeting;
+pub mod guess;
+pub mod rectangle;
