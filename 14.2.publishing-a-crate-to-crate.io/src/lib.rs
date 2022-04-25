@@ -1,7 +1,7 @@
 //! Hello docs
-//! # Publish
+//! # My Crate
 //!
-//! `publish` is a collection of utilities to make performing certain
+//! `publish_test_with_rust_book` is a collection of utilities to make performing certain
 //! calculations more convenient
 
 /// Adds one to the number given.

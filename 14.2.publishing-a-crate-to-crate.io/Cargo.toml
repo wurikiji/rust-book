@@ -1,5 +1,5 @@
 [package]
-name = "publish"
+name = "publish_test_with_rust_book"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"

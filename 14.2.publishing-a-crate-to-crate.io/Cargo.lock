@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "publish"
+name = "publish_test_with_rust_book"
 version = "0.1.0"
