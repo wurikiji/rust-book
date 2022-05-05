@@ -9,6 +9,7 @@ File and folder structures are not optimal, too.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [rustlings](https://github.com/rust-lang/rustlings)
+  - [My Solutions](https://github.com/wurikiji/rust-rustlings): Finished on 2022-May-5th
 - [The Little Book of Rust Macros](http://danielkeep.github.io/tlborm/book/index.html)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
