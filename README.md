@@ -12,6 +12,7 @@ File and folder structures are not optimal, too.
   - [My Solutions](https://github.com/wurikiji/rust-rustlings): Finished on 2022-May-5th
 - [The Little Book of Rust Macros](https://github.com/veykril/tlborm/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
+  - Finished on 2022-May-7th
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
 - [The Cargo Book](https://doc.rust-lang.org/cargo/)
 - [The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/)
